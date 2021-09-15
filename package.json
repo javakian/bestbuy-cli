@@ -11,17 +11,17 @@
     "bestbuy": "^2.1.2",
     "cliclopts": "^1.1.1",
     "fast-csv": "^2.4.0",
-    "log-update": "^2.1.0",
+    "log-update": "^4.0.0",
     "minimist": "^1.2.0",
     "pretty-ms": "^3.0.0",
     "pump": "^1.0.2",
     "stdout-stream": "^1.4.0",
     "through2": "^2.0.3",
-    "update-notifier": "^2.2.0"
+    "update-notifier": "^4.0.0"
   },
   "devDependencies": {
     "concat-stream": "^1.6.0",
-    "gh-release": "^3.1.1",
+    "gh-release": "^4.0.0",
     "pkg": "^4.2.4",
     "rimraf": "^2.6.2",
     "standard": "*",
