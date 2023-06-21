@@ -17,12 +17,12 @@
     "pump": "^1.0.2",
     "stdout-stream": "^1.4.0",
     "through2": "^2.0.3",
-    "update-notifier": "^2.2.0"
+    "update-notifier": "^6.0.0"
   },
   "devDependencies": {
     "concat-stream": "^1.6.0",
     "gh-release": "^3.1.1",
-    "pkg": "^4.2.4",
+    "pkg": "^5.8.1",
     "rimraf": "^2.6.2",
     "standard": "*",
     "tap-spec": "^4.0.2",
